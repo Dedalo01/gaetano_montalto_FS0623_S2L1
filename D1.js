@@ -156,5 +156,5 @@ console.log(
     areEqual1 +
     '" se comparate con "!==" (quindi sono diverse tra loro),\nmentre danno "' +
     areEqual2 +
-    '" (quindi uguali tra loro), se name2" diventa "lowercase".'
+    '" (quindi uguali tra loro), se "name2" diventa "lowercase".'
 );
